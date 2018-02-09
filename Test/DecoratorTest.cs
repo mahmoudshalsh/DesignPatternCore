@@ -6,11 +6,6 @@ namespace Tests
 {
     public class DecoratorTest
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
         public void Test()
         {
