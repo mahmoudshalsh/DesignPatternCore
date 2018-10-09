@@ -7,5 +7,3 @@
         double CalculateCost();
     }
 }
-
-
